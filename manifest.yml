@@ -1,0 +1,4 @@
+--- !map:Jax::Plugin::Manifest 
+name: blender_models
+description: ""
+version: 0.0.1
